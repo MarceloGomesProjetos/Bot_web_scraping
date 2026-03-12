@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Bot Web Scraping",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/Bot_Web_Scriping.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}
